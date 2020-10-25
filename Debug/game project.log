@@ -1,0 +1,14 @@
+﻿Build started 12/13/2017 8:23:13 PM.
+     1>Project "E:\apl)\igame project\game project\game project\game project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt igame.cpp
+         igame.cpp
+     1>e:\apl)\igame project\game project\game project\igame.cpp(106): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\apl)\igame project\game project\Debug\game project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\apl)\igame project\game project\Debug\game project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\apl)\igame project\game project\Debug\game project.lib" /MACHINE:X86 Debug\igame.obj
+         game project.vcxproj -> E:\apl)\igame project\game project\Debug\game project.exe
+     1>Done Building Project "E:\apl)\igame project\game project\game project\game project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.76
